@@ -1,6 +1,5 @@
 # Face Detection with Python using OpenCV
 
-______________________________________________________________________________________________________________________________________
  Image Face Detection:
            https://github.com/NataliaHaronitou/Face-Detection-with-Python-Using-OpenCV/blob/main/Face_Detector.py
  
